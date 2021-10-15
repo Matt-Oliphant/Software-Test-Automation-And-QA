@@ -1,1 +1,1 @@
-# Software_Test_Automation_And_QA
+# Software_Test_Automation-QA
