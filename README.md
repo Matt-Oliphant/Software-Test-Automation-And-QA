@@ -1,4 +1,4 @@
-# Software-Test-Automation-QA
+# Software-Test-Automation-And-QA: Course Reflection
 
 **How can I ensure that my code, program, or software is functional and secure?**
   * Testing software ensures it is functional, however, the tests have to be designed properly. White-box testing allows the developer to see where issues are occurring, where black-box testing tests allows the developer to check functionality. OOP principles provide security through encapsulation and need to be incorporated into software design.
